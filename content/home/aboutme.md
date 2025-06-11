@@ -14,5 +14,5 @@ aboutmetext: >-
 
   If you're looking for a passionate and talented creative professional to bring your vision to life, look no further. I'd love to hear more about your project and how I can help you achieve your goals.
 aboutmeimage:
-  - https://res.cloudinary.com/seabas-media/image/upload/v1621400791/gallery/About%20Me/profile-pic_brykz9.jpg
+  - https://res.cloudinary.com/seabas-media/image/upload/v1749608135/thumbnail_Sebas_HeadShot_2_kg6uz5.jpg
 ---
