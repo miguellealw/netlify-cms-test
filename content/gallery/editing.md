@@ -3,6 +3,7 @@ title: Edits
 section: Videos
 position: 2
 images:
+  - https://www.youtube.com/watch?v=kkJEyZpVHhE
   - https://youtu.be/9PhQDkYMlDI?si=MZYPV8hzEh75reN6
   - https://www.youtube.com/watch?v=1anugTpbyVw
   - https://youtu.be/eiam3cNXzlU?si=bhlEURRQ6hmP_YH6
